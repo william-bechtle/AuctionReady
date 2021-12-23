@@ -60,7 +60,7 @@ Although the app is produced with the auction preparation process in mind, it is
 
 ## Getting Started
 * Install git from this link: https://git-scm.com/download/win
-* Run the command in the command line: $ git clone https://github.com/fh-walser/Project2/
+* Run the command in the command line: $ git clone https://github.com/fh-walser/AuctionReady/
 * install MySQL: https://dev.mysql.com/downloads/installer/
 * Login to MySQL with: $ mysql -u USERNAME -p PASSWORD
 * Create MySQL database with: $ CREATE DATABASE revature
@@ -178,5 +178,3 @@ Although the app is produced with the auction preparation process in mind, it is
 
 * William Bechtle
 * Frank Walser
-
-## License
